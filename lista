@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<htmaL>
+
+<head>
+
+</head>
+   
+<body>
+
+<h1><center>minha lista</h1>
+
+<ol>
+   <li>cozinha
+   <li>geladeiraira
+      <Ul>
+            <li>queijo
+            <li>agua
+      </Ul>
+   </ol>
+   <ol>
+      <li>armario
+      <li>pratileira
+         <Ul>
+            <li>detergente
+            <li>bucha</li>
+         </Ul>   
+
+
+</body>
+
+</html>
