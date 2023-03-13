@@ -1,0 +1,16 @@
+#include<iostream>
+ using namespace std;
+int main (){
+		 float v1,v2,resultado;
+		cout<<"insira um numero real: ";
+		cin>>v1;
+		cout<<"insira outro numero real: ";
+		cin>>v2;
+		cout<<"Primeiro numero: "<<v1<<endl;
+		cout<<"Segundo numero: "<<v2<<endl;
+		cout<<"========================"<<endl;
+		cout<<"("<<v1<<"*2"<<") + ("<<v2<<"*2)"<<endl;
+		cout<<"("<<v1*v1<<") + ("<<v2*v2<<") ="<<endl;
+		resultado = (v1*v1)+(v2*v2);
+		cout<<"resultado da soma dos quadrados dos numeros recebidos foi:  "<<resultado;
+}
