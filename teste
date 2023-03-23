@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+    <style>
+        body{
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+    
+        
+</head>
+<header>
+    <h1><strong><p style="color:blue">Faculdade Esup</p></strong></h1>
+      <h2><p style="color:rgb(253, 252, 252)"> Curso de Sistemas de Informação</p></h2>
+        <h3><p style="color: rgb(255, 255, 255);">Victor Hugo</p></h3>
+    </header>
+
+<body
+    background="PROJETO/src/img1.png"
+    <video src="src/projeto.mp4" controles de reprodução automática silenciados width="500"">
+    </vídeo>
+    <ol>
+        <li>
+           <b><p style="color: rgb(255, 252, 252)">Sites fundamentais</b>
+        </li>
+        <ul>
+        <a href="https://github.com/">Git Hub</a></br>
+        <a href="https://google.com.br/">Buscador</a></br>
+        <a href="https://auth0.openai.com/u/login/identifier?state=hKFo2SBxUHF5NElFQWRxRjR3U0JxdjhmNVo0cm9kdkhVbE5nUaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGZDQkhSb1BZN1ZTeTJQeUdNQV8yMXFHUXkxSDJBQUc2o2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc">ChatGPT</a></br>
+        </ul>
+    </ol>
+    <ol>
+        <li>
+            <b><p style="color: rgb(255, 255, 255)">Links Faculdade</b>
+        </li>
+        <a href="https://esup.edu.br/secretariageral//">Secretaria Geral ESUP</a></br>
+        <a href="https://esup.edu.br/fale-conosco/">Fale Conosco</a></br>
+        <a href="http://sei.esup.edu.br/">Portal Acadêmico</a></br>
+        </ul>
+    </ol>
+            <b><p style="color: white">Desenvolvido por:</b>
+            <a href="pag2.html">
+                Clique aqui
+    </a>
+       
+</body>
+Rodapé
