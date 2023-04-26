@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<head>
+
+</head>
+
+<body>
+
+<fieldset>
+
+<legend>Dados Pessoais</legend>
+
+<label>Nome</label>
+<input style="display: block;" id="nome" type="text" placeholder="digite seu nome" />
+
+<label>Endereço</label>
+<input style="display: block;" id="endereço" type="text" placeholder="digite seu endereço" />
+
+<label>Cidade</label>
+<input style="display: block;" id="cidade" type="text" placeholder="digite sua cidade" /></br>
+
+<legend>Sua Cidade</legend>
+<section>
+    
+</section>
+
+</fieldset>
+
+<fieldset de campos>
+
+   <legend>Dados Profissionais</legend>
+
+   <input type="radio" id="Masculino" name="genero" value="Masculino" required>
+   <label for="Masculino">Masculino</label>
+
+   <input type="radio" id="Feminino" name="genero" value="Feminino" required>
+   <label for="Feminino">Feminino</label>
+
+   <input type="radio" id="Outro" name="genero" value="Outro" required>
+   <label for="Outro">Outro</label>
+
+</fieldset>
+
+</body>
+
+</html>
