@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<head>
+
+<link rel="stylsheet" href="Css/Style.css">
+
+</head>
+
+<body class="Lado">
+
+<h1 style="color: blue;">Manutenção de Usuário do Sistema Interno</h1>
+
+<label>Login</label>
+<input id="nome" type="text"/><br>
+
+<h1></h1>
+
+<label>Senha</label>
+<input id="endereço" type="text" /><br>
+
+<h1></h1>
+
+<label>Status</label>
+<select>
+   <option>Ativo</option>
+   <option>Inativo</option></br>
+</select></br>
+
+<h1></h1>
+
+   <label>Tipo</label> <input type="radio" id="Técnico" name="Técnico" value="Técnico" required>
+   <label for="Técnico">Técnico</label>
+
+   <input type="radio" id="Professor" name="Professor" value="Professor" required>
+   <label for="Professor">Professor</label>
+
+   <input type="radio" id="Aluno" name="Aluno" value="Aluno" required>
+   <label for="Aluno">Aluno</label><br>
+
+   <h1></h1> 
+
+<label>Data Criação</label>
+<input  id="endereço" type="date" /><br>
+
+<h1></h1>
+
+<label>Perfil</label>
+   <input type="radio" id="Convidado" name="Convidado" value="Convidado" required>
+   <label for="Convidado">Convidado</label>
+
+   <input type="radio" id="Administrador" name="Administrador" value="Administrador" required>
+   <label for="Administrador">Administrador</label><br>
+
+   <h1></h1>
+
+   <label>Oberservações</label>
+<textarea></textarea><br/>
+
+   <h1></h1>
+   
+   <label>Módulo</label>
+   <input type="checkbox" id="Compras" name="Compras" value="Compras" required>
+   <label for="Compras">Compras</label>
+
+   <input type="checkbox" id="biblioteca" name="biblioteca" value="biblioteca" required>
+   <label for="biblioteca">biblioteca</label>
+
+   <input type="checkbox" id="Académia" name="Académia" value="Académia" required>
+   <label for="">Académia</label>
+
+   <input type="checkbox" id="Documentação" name="Documentação" value="Documentação" required>
+   <label for="Documentação">Documentação</label>
+
+   <input type="checkbox" id="Recursos Humanos" name="Recursos Humanos" value="Recursos Humanos" required>
+   <label for="Recursos Humanos">Recursos Humanos</label><br>
+
+   <h1></h1>
+
+<button type="submit">Cadastrar</button>
+<button type="submit">Excluir</button>
+
+</body>
+
+</html>
